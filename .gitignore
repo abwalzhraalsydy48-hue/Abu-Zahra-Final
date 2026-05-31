@@ -1,0 +1,28 @@
+# Built files
+/build/
+/app/build/
+/.gradle/
+
+# Local configuration
+/local.properties
+
+# IDE files
+/.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Signing files
+*.jks
+*.keystore
+keystore.properties
+
+# Secrets
+secrets.properties
+
+# Logs
+*.log
