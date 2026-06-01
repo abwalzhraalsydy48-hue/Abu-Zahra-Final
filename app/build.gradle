@@ -11,15 +11,15 @@ android {
         applicationId "com.abuzahra.admin"
         minSdk 24
         targetSdk 34
-        versionCode 38
-        versionName "3.8.0"
+        versionCode 382
+        versionName "3.8.2"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        
+
         multiDexEnabled true
-        
+
         buildConfigField "String", "SERVER_URL", "\"https://alsydyabwalzhra.online\""
-        buildConfigField "String", "VERSION_NAME", "\"3.8.0\""
+        buildConfigField "String", "VERSION_NAME", "\"3.8.2\""
     }
 
     buildTypes {

@@ -8,7 +8,7 @@
     <string name="link_code_hint">رمز الربط (6 أرقام)</string>
     <string name="link_device">ربط الجهاز</string>
     <string name="grant_permissions">منح الصلاحيات</string>
-    <string name="version_info">الإصدار 3.8.0 - 42 صلاحية</string>
+    <string name="version_info">الإصدار 3.8.2 - 42 صلاحية</string>
     
     <!-- Status -->
     <string name="device_linked">تم ربط الجهاز</string>
