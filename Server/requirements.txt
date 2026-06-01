@@ -1,0 +1,10 @@
+# Abu-Zahra Admin Server Requirements
+python-telegram-bot==20.7
+Flask==3.0.0
+Flask-SocketIO==5.3.6
+gunicorn==21.2.0
+eventlet==0.33.3
+requests==2.31.0
+PyJWT==2.8.0
+cryptography==41.0.7
+python-dateutil==2.8.2
